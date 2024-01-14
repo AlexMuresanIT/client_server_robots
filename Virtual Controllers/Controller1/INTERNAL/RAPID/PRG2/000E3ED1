@@ -1,0 +1,6 @@
+MODULE Module1
+    
+    PROC main()
+        <SMT>
+    ENDPROC
+ENDMODULE
